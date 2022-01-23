@@ -3,3 +3,6 @@ Tests 4 different methods of sorting (selection, bubble, insertion, quick) and f
 Compares how many loops, shifts, and checks each sort performs in addition to how fast their processing time is and outputs the most efficient in each category.
 Allows the user to choose how many numbers they would like randomly generated.
 Also asks the user if they would like it to be sorted in ascending or descending order.
+
+# Sample Screenshot
+![App Screenshot](https://i.ibb.co/KbdK5cM/image-2022-01-23-044612.png)
